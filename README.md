@@ -45,7 +45,7 @@ A classic Pong game clone built with Python's turtle graphics library. This proj
 
 ## Screenshot
 
-![Screenshot](screenshot/screenshot.PNG)
+![Screenshot](screenshot/pong-screenshot.PNG)
 
 ## License
 
